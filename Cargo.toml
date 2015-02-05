@@ -2,7 +2,8 @@
 
 name = "rustbot"
 version = "0.0.1"
-authors = ["Jonas Hietala <mail@Jonashietala.se>"]
+authors = ["Jonas Hietala <mail@Jonashietala.se>",
+           "Xanadu Zhang <yeahnoob@buaa.edu.cn>"]
 
 [dependencies.time]
 
