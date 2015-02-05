@@ -1,7 +1,9 @@
 About
 =====
 
-An irc bot written in [rust][], for fun and profit! See [rfc2812][] for irc implementation details.
+Forked from [treeman/rustbot](https://github.com/treeman/rustbot)
+
+An irc bot written in [rust](http://www.rust-lang.org), for fun and profit! See [rfc2812](http://tools.ietf.org/html/rfc2812) for irc implementation details.
 
 Be aware that rust is fast changing and I may not keep the code up to date.
 
@@ -42,6 +44,6 @@ Implement some behaviour
     * latest manga (or something)
     * habitrpg hooks?
 
+[treeman/rustbot]: https://github.com/treeman/rustbot "rustbot"
 [rust]: http://www.rust-lang.org "rust"
 [rfc2812]: http://tools.ietf.org/html/rfc2812 "irc reference"
-
